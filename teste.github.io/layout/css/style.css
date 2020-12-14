@@ -1,0 +1,3764 @@
+/* Desktop */
+
+position: relative;
+width: 1920px;
+height: 2974px;
+
+/* color-3-500 */
+background: #FAFAFA;
+
+
+/* footer */
+
+position: absolute;
+width: 1920px;
+height: 376px;
+left: 0px;
+top: 2598px;
+
+
+
+/* footer-layout.mobile */
+
+position: absolute;
+width: 1920px;
+height: 461px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+
+
+/* footer-layout.desktop */
+
+position: absolute;
+width: 1920px;
+height: 376px;
+left: 0px;
+top: 0px;
+
+/* color-3-500 */
+background: #FAFAFA;
+
+
+/* flex-layout.row#footer-desktop */
+
+position: absolute;
+width: 1920px;
+height: 85px;
+left: 0px;
+top: 291px;
+
+/* color-2-500 */
+background: #353535;
+
+
+/* social-networks#social-midia */
+
+position: absolute;
+width: 630px;
+height: 32px;
+left: 161px;
+bottom: 26px;
+
+
+
+/* https://facebook.com/ */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+
+
+/* https://facebook.com/ */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+
+/* https://www.youtube.com/ */
+
+position: absolute;
+width: 32px;
+height: 22px;
+left: 161px;
+top: 5px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: FFFFFF;
+
+
+/* https://www.linkedin.com/ */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 54px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: FFFFFF;
+
+
+/* https://www.instagram.com/ */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 107px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: FFFFFF;
+
+
+/* accepted-payment-methods#meio-de-pagamentos */
+
+position: absolute;
+width: 630px;
+height: 32px;
+left: 484px;
+bottom: 26px;
+
+
+
+/* icon-pagamento-mastercard */
+
+position: absolute;
+width: 32px;
+height: 25px;
+left: 598px;
+top: 4px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: FFFFFF;
+
+
+/* icon-pagamento-Visa */
+
+position: absolute;
+width: 32px;
+height: 25px;
+left: 544px;
+top: 4px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: FFFFFF;
+
+
+/* mastercard */
+
+position: absolute;
+width: 32px;
+height: 25px;
+left: 491px;
+top: 4px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: FFFFFF;
+
+
+/* visa */
+
+position: absolute;
+width: 32px;
+height: 25px;
+left: 437px;
+top: 4px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: FFFFFF;
+
+
+/* powered-by#vtex */
+
+position: absolute;
+width: 207.96px;
+height: 48.7px;
+left: 1551px;
+top: 19px;
+
+
+
+/* poweredByImage#vtex */
+
+position: absolute;
+width: 67.83px;
+height: 25px;
+left: 0px;
+top: 20.89px;
+
+
+
+/* logo footer */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(logo footer.png);
+
+
+/* Powered by */
+
+position: absolute;
+left: 0.17%;
+right: 71.05%;
+top: 0%;
+bottom: 64.25%;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 14px;
+
+/* color-5-500 */
+color: FFFFFF;
+
+
+/* powered-by#maeztra */
+
+position: absolute;
+width: 119.82px;
+height: 48.7px;
+left: 1639.14px;
+top: 19px;
+
+
+
+/* poweredByImage#maeztra */
+
+position: absolute;
+width: 118.56px;
+height: 28.81px;
+left: 1.27px;
+top: 19.89px;
+
+
+
+/* [2019-05]-Maeztra---Logo----cor */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url([2019-05]-Maeztra---Logo----cor.png);
+
+
+/* Developed by */
+
+position: absolute;
+left: 0%;
+right: 42.56%;
+top: 0%;
+bottom: 64.25%;
+
+font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 14px;
+
+/* color-5-500 */
+color: #FFFFFF;
+
+
+/* vtex.menu@2.x:menu#footer-links-barra03 */
+
+position: absolute;
+width: 146px;
+height: 187px;
+left: 1290px;
+top: 40px;
+
+
+
+/* menu-item#endereco */
+
+position: absolute;
+width: 58px;
+height: 18px;
+left: 1px;
+top: 84px;
+
+
+
+/* txt */
+
+position: absolute;
+width: 48px;
+height: 18px;
+left: 1px;
+top: calc(50% - 18px/2);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* menu-item#lojas */
+
+position: absolute;
+width: 80px;
+height: 18px;
+left: 0px;
+top: 42px;
+
+
+
+/* txt */
+
+position: absolute;
+width: 27px;
+height: 18px;
+left: 1px;
+top: calc(50% - 18px/2);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* rich-text#onde-nos-encontrar */
+
+position: absolute;
+width: 93px;
+height: 19px;
+left: 1px;
+top: 0px;
+
+
+
+/* txt */
+
+position: absolute;
+width: 137px;
+height: 18px;
+left: 0px;
+top: calc(50% - 18px/2 - 0.5px);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 112% */
+display: flex;
+align-items: center;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* vtex.menu@2.x:menu#footer-links-barra02 */
+
+position: absolute;
+width: 146px;
+height: 187px;
+left: 932px;
+top: 40px;
+
+
+
+/* menu-item#meus-pedidos */
+
+position: absolute;
+width: 58px;
+height: 18px;
+left: 0px;
+top: 84px;
+
+
+
+/* txt */
+
+position: absolute;
+width: 72px;
+height: 18px;
+left: 1px;
+top: calc(50% - 18px/2);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* menu-item#cadastre-se */
+
+position: absolute;
+width: 58px;
+height: 18px;
+left: 0px;
+top: 126px;
+
+
+
+/* txt */
+
+position: absolute;
+width: 62px;
+height: 18px;
+left: 1px;
+top: calc(50% - 18px/2);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* menu-item#minha-conta-item */
+
+position: absolute;
+width: 41px;
+height: 18px;
+left: 0px;
+top: 42px;
+
+
+
+/* txt */
+
+position: absolute;
+width: 64px;
+height: 18px;
+left: 0px;
+top: calc(50% - 18px/2);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* rich-text#minha-conta */
+
+position: absolute;
+width: 58px;
+height: 19px;
+left: 0px;
+top: 0px;
+
+
+
+/* txt */
+
+position: absolute;
+width: 88px;
+height: 18px;
+left: 0px;
+top: calc(50% - 18px/2 - 0.5px);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 112% */
+display: flex;
+align-items: center;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* vtex.menu@2.x:menu#footer-links-barra01 */
+
+position: absolute;
+width: 307px;
+height: 187px;
+left: 484px;
+top: 40px;
+
+
+
+/* menu-item#promocoes-e-cupons */
+
+position: absolute;
+width: 98px;
+height: 18px;
+left: 1px;
+top: 169px;
+
+
+
+/* txt */
+
+position: absolute;
+width: 106px;
+height: 18px;
+left: 0px;
+top: calc(50% - 18px/2);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* menu-item#trocas-devolucoes */
+
+position: absolute;
+width: 58px;
+height: 18px;
+left: 0px;
+top: 127px;
+
+
+
+/* txt */
+
+position: absolute;
+width: 102px;
+height: 18px;
+left: 1px;
+top: calc(50% - 18px/2);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* menu-item#prazo-de-envio */
+
+position: absolute;
+width: 78px;
+height: 18px;
+left: 0px;
+top: 85px;
+
+
+
+/* txt */
+
+position: absolute;
+width: 75px;
+height: 18px;
+left: 0px;
+top: calc(50% - 18px/2);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* menu-item#quem-somos */
+
+position: absolute;
+width: 38px;
+height: 18px;
+left: 0px;
+top: 43px;
+
+
+
+/* txt */
+
+position: absolute;
+width: 68px;
+height: 18px;
+left: 0px;
+top: calc(50% - 18px/2);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* rich-text#informacoes */
+
+position: absolute;
+width: 87px;
+height: 19px;
+left: 0px;
+top: 0px;
+
+
+
+/* txt */
+
+position: absolute;
+width: 87px;
+height: 18px;
+left: 0px;
+top: calc(50% - 18px/2 - 0.5px);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 18px;
+/* identical to box height, or 112% */
+display: flex;
+align-items: center;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* Div */
+
+position: absolute;
+width: 1920px;
+height: 2px;
+left: 0px;
+top: 2473px;
+
+/* color-4-500 */
+background: #EFEFEF;
+
+
+/* Div */
+
+position: absolute;
+width: 1920px;
+height: 2px;
+left: 0px;
+top: 2595px;
+
+/* color-4-500 */
+background: #EFEFEF;
+
+
+/* Newsletter */
+
+position: absolute;
+width: 1920px;
+height: 120px;
+left: 0px;
+top: 2475px;
+
+/* color-3-500 */
+background: #FAFAFA;
+
+
+/* newsletter */
+
+position: absolute;
+width: 1920px;
+height: 120px;
+left: 0px;
+top: 0px;
+
+
+
+/* label */
+
+position: absolute;
+width: 307px;
+height: 38px;
+left: 484px;
+top: 40px;
+
+
+
+/* Recebe Nossa Newsletter */
+
+position: absolute;
+width: 307px;
+height: 38px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 37px;
+display: flex;
+align-items: center;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* placeholder */
+
+position: absolute;
+width: 630px;
+height: 40px;
+left: 806px;
+top: 40px;
+
+/* color-5-500 */
+background: #FFFFFF;
+/* color-2-500 */
+border: 1px solid #353535;
+box-sizing: border-box;
+border-radius: 4px;
+
+
+/* Digite seu e-mail */
+
+position: absolute;
+width: 468px;
+height: 40px;
+left: 24px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+display: flex;
+align-items: center;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* submit */
+
+position: absolute;
+width: 131px;
+height: 40px;
+left: 1305px;
+top: 40px;
+
+/* color-1-500 #FAA500 */
+background: #FAA500;
+/* color-1-500 #FAA500 */
+border: 1px solid #FAA500;
+box-sizing: border-box;
+border-radius: 4px;
+
+
+/* Enviar */
+
+position: absolute;
+width: 44px;
+height: 24px;
+left: calc(50% - 44px/2 + 0.5px);
+top: calc(50% - 24px/2);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 24px;
+display: flex;
+align-items: center;
+
+/* color-5-500 */
+color: #FFFFFF;
+
+
+/* Tipbar Marcas */
+
+position: absolute;
+width: 1598px;
+height: 64px;
+left: 160px;
+top: 1033px;
+
+
+
+/* Tipbar Marcas05 */
+
+position: absolute;
+width: 308px;
+height: 64px;
+left: 645px;
+top: 0px;
+
+/* color-4-500 */
+background: #EFEFEF;
+border-radius: 4px;
+
+
+/* Tipbar Marcas05 img */
+
+position: absolute;
+width: 308px;
+height: 64px;
+left: 0px;
+top: 0px;
+
+
+
+/* https://i.imgur.com/JOTNQgl.png */
+
+position: absolute;
+width: 308px;
+height: 64px;
+left: 0px;
+top: 0px;
+
+background: url(Logo foverer21.png);
+
+
+/* Tipbar Marcas04 */
+
+position: absolute;
+width: 307px;
+height: 64px;
+left: 323px;
+top: 0px;
+
+/* color-4-500 */
+background: #EFEFEF;
+border-radius: 4px;
+
+
+/* Tipbar Marcas04 img */
+
+position: absolute;
+width: 307px;
+height: 64px;
+left: 0px;
+top: 8px;
+
+
+
+/* https://i.imgur.com/cHLLxR4.png */
+
+position: absolute;
+width: 307px;
+height: 64px;
+left: 0px;
+top: -9px;
+
+background: url(logo melissa 1.png);
+
+
+/* Tipbar Marcas03 */
+
+position: absolute;
+width: 308px;
+height: 64px;
+left: 0px;
+top: 0px;
+
+/* color-4-500 */
+background: #EFEFEF;
+border-radius: 4px;
+
+
+/* Tipbar Marcas03 img */
+
+position: absolute;
+width: 310px;
+height: 64px;
+left: -2px;
+top: 0px;
+
+
+
+/* https://i.imgur.com/Qoc0YF7.png */
+
+position: absolute;
+width: 308px;
+height: 64px;
+left: 1px;
+top: 0px;
+
+background: url(logo comma.png);
+
+
+/* Tipbar Marcas02 */
+
+position: absolute;
+width: 307px;
+height: 64px;
+left: 1291px;
+top: 0px;
+
+/* color-4-500 */
+background: #EFEFEF;
+border-radius: 4px;
+
+
+/* Tipbar Marcas02 img */
+
+position: absolute;
+width: 307px;
+height: 64px;
+left: 0px;
+top: 0px;
+
+
+
+/* https://i.imgur.com/qZ1WvYA.png */
+
+position: absolute;
+width: 307px;
+height: 64px;
+left: 0px;
+top: 0px;
+
+background: url(logo ann taylor 04.png);
+
+
+/* Tipbar Marcas01 */
+
+position: absolute;
+width: 308px;
+height: 64px;
+left: 968px;
+top: 0px;
+
+/* color-4-500 */
+background: #EFEFEF;
+border-radius: 4px;
+
+
+/* Tipbar Marcas01 img */
+
+position: absolute;
+width: 319px;
+height: 102px;
+left: -5px;
+top: -17px;
+
+
+
+/* https://i.imgur.com/PN0nOAY.png */
+
+position: absolute;
+width: 322px;
+height: 67px;
+left: 5px;
+top: 16px;
+
+background: url(logo zara.png);
+
+
+/* Titulo */
+
+position: absolute;
+width: 1920px;
+height: 36px;
+left: -1px;
+top: 973px;
+
+
+
+/* Titulo */
+
+position: absolute;
+width: 1920px;
+height: 49px;
+left: 0px;
+top: -6px;
+
+
+
+/* Marcas Parceiras */
+
+position: absolute;
+width: 1920px;
+height: 49px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 49px;
+/* identical to box height */
+text-align: center;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* Banner 02 */
+
+position: absolute;
+width: 1598px;
+height: 480px;
+left: 161px;
+top: 1915px;
+
+
+
+/* Banner 02 Img */
+
+position: absolute;
+width: 1114px;
+height: 480px;
+left: 484px;
+top: 0px;
+
+background: #D79595;
+border-radius: 4px;
+
+
+/* https://i.imgur.com/1vLCv01.png */
+
+position: absolute;
+width: 1114px;
+height: 684px;
+left: 0px;
+top: -58px;
+
+background: url(banner01.png);
+
+
+/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Interdum mauris posuere fusce proin mattis. Hendrerit cras ut nunc enim dictum. Mattis proin ut quis donec sed eget nulla. Vel mi ut mauris integer. Nibh sagittis in lobortis sed cursus condimentum velit pharetra. Amet luctus ut vulputate scelerisque placerat consequat. Neque arcu mi iaculis id. Vel vitae, pharetra, a nec tristique. Feugiat id tortor eu mauris pulvinar velit massa. Ut ornare augue eget convallis volutpat aliquet. Sed sed pellentesque porttitor phasellus donec condimentum sit sapien. */
+
+position: absolute;
+width: 420px;
+height: 172px;
+left: 0px;
+top: 172px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* Lorem ipsum */
+
+position: absolute;
+width: 465px;
+height: 37px;
+left: 0px;
+top: 119px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 37px;
+/* identical to box height */
+
+/* color-2-900 */
+color: #000000;
+
+
+/* Vitrine */
+
+position: absolute;
+width: 1600px;
+height: 585px;
+left: 159px;
+top: 1250px;
+
+
+
+/* Produto 05 */
+
+position: absolute;
+width: 308px;
+left: 1292px;
+top: 0%;
+bottom: -2.74%;
+
+
+
+/* Produto 05 */
+
+position: absolute;
+width: 254px;
+height: 35px;
+left: 27px;
+top: 550px;
+
+/* color-1-500 #FAA500 */
+background: #FAA500;
+border-radius: 4px;
+
+
+/* Adicionar */
+
+position: absolute;
+width: 254px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Produto 05 */
+
+position: absolute;
+width: 254px;
+height: 24px;
+left: 27px;
+top: 424px;
+
+
+
+/* R$ 500,00 */
+
+position: absolute;
+width: 254px;
+height: 30px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 30px;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* Produto 05 */
+
+position: absolute;
+width: 308px;
+height: 381px;
+left: 0px;
+top: 0px;
+
+
+
+/* https://via.placeholder.com/308x381 */
+
+position: absolute;
+width: 308px;
+height: 465px;
+left: 0px;
+top: -43px;
+
+background: url(image.png);
+
+
+/* Produto 05 */
+
+position: absolute;
+width: 132px;
+height: 27px;
+left: 27px;
+top: 389px;
+
+
+
+/* Rectangle 56 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 0px;
+top: 0px;
+
+background: #DEAC71;
+/* color-2-500 */
+border: 1px solid #353535;
+box-sizing: border-box;
+border-radius: 4px;
+
+
+/* Rectangle 57 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 35px;
+top: 0px;
+
+background: #D37164;
+border-radius: 4px;
+
+
+/* Rectangle 58 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 70px;
+top: 0px;
+
+background: #6497D3;
+border-radius: 4px;
+
+
+/* Rectangle 59 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 105px;
+top: 0px;
+
+background: #3C3B79;
+border-radius: 4px;
+
+
+/* Produto 05 */
+
+position: absolute;
+width: 254px;
+height: 54px;
+left: 27px;
+top: 488px;
+
+
+
+/* A faux suede mini skirt featuring exposed button-front closures and panel seam construction. */
+
+position: absolute;
+width: 254px;
+height: 54px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+
+/* color-2-900 */
+color: #000000;
+opacity: 0.5;
+
+
+/* Produto 05 */
+
+position: absolute;
+width: 254px;
+height: 24px;
+left: 27px;
+top: 456px;
+
+
+
+/* Faux Suede Mini Skirt */
+
+position: absolute;
+width: 254px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* Produto 04 */
+
+position: absolute;
+width: 308px;
+left: 970px;
+top: 0%;
+bottom: -2.74%;
+
+
+
+/* Produto 04 */
+
+position: absolute;
+width: 254px;
+height: 35px;
+left: 27px;
+top: 550px;
+
+/* color-1-500 #FAA500 */
+background: #FAA500;
+border-radius: 4px;
+
+
+/* Adicionar */
+
+position: absolute;
+width: 254px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Produto 04 */
+
+position: absolute;
+width: 254px;
+height: 24px;
+left: 27px;
+top: 424px;
+
+
+
+/* R$ 320,00 */
+
+position: absolute;
+width: 254px;
+height: 30px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 30px;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* Produto 04 */
+
+position: absolute;
+width: 308px;
+height: 381px;
+left: 0px;
+top: 0px;
+
+
+
+/* https://via.placeholder.com/308x381 */
+
+position: absolute;
+width: 308px;
+height: 465px;
+left: 0px;
+top: -43px;
+
+background: url(image.png);
+
+
+/* Produto 04 */
+
+position: absolute;
+width: 132px;
+height: 27px;
+left: 27px;
+top: 389px;
+
+
+
+/* Rectangle 56 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 0px;
+top: 0px;
+
+background: #1C1A19;
+/* color-2-500 */
+border: 1px solid #353535;
+box-sizing: border-box;
+border-radius: 4px;
+
+
+/* Rectangle 57 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 35px;
+top: 0px;
+
+background: #D84E4B;
+border-radius: 4px;
+
+
+/* Rectangle 58 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 70px;
+top: 0px;
+
+background: #CFC9B0;
+border-radius: 4px;
+
+
+/* Rectangle 59 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 105px;
+top: 0px;
+
+background: #EAE9E5;
+border-radius: 4px;
+
+
+/* Produto 04 */
+
+position: absolute;
+width: 254px;
+height: 54px;
+left: 27px;
+top: 488px;
+
+
+
+/* A satin mini skirt featuring an allover floral print, ruched side with self-tie closure, concealed back zipper, and a flounce hem. */
+
+position: absolute;
+width: 254px;
+height: 54px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+
+/* color-2-900 */
+color: #000000;
+opacity: 0.5;
+
+
+/* Produto 04 */
+
+position: absolute;
+width: 254px;
+height: 24px;
+left: 27px;
+top: 456px;
+
+
+
+/* Ruched Rose Print Mini Skirt */
+
+position: absolute;
+width: 254px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* Produto 03 */
+
+position: absolute;
+width: 308px;
+left: 324px;
+top: 0%;
+bottom: -2.74%;
+
+
+
+/* Produto 03 */
+
+position: absolute;
+width: 254px;
+height: 35px;
+left: 27px;
+top: 550px;
+
+/* color-1-500 #FAA500 */
+background: #FAA500;
+border-radius: 4px;
+
+
+/* Adicionar */
+
+position: absolute;
+width: 254px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Produto 03 */
+
+position: absolute;
+width: 254px;
+height: 24px;
+left: 27px;
+top: 424px;
+
+
+
+/* R$ 320,00 */
+
+position: absolute;
+width: 254px;
+height: 30px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 30px;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* Produto 03 */
+
+position: absolute;
+width: 308px;
+height: 381px;
+left: 0px;
+top: 0px;
+
+
+
+/* https://via.placeholder.com/308x381 */
+
+position: absolute;
+width: 308px;
+height: 465px;
+left: 0px;
+top: -43px;
+
+background: url(image.png);
+
+
+/* Produto 03 */
+
+position: absolute;
+width: 132px;
+height: 27px;
+left: 27px;
+top: 389px;
+
+
+
+/* Rectangle 56 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 0px;
+top: 0px;
+
+background: #1C1A19;
+/* color-2-500 */
+border: 1px solid #353535;
+box-sizing: border-box;
+border-radius: 4px;
+
+
+/* Rectangle 57 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 35px;
+top: 0px;
+
+background: #D84E4B;
+border-radius: 4px;
+
+
+/* Rectangle 58 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 70px;
+top: 0px;
+
+background: #CFC9B0;
+border-radius: 4px;
+
+
+/* Rectangle 59 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 105px;
+top: 0px;
+
+background: #EAE9E5;
+border-radius: 4px;
+
+
+/* Produto 03 */
+
+position: absolute;
+width: 254px;
+height: 54px;
+left: 27px;
+top: 488px;
+
+
+
+/* A satin mini skirt featuring an allover floral print, ruched side with self-tie closure, concealed back zipper, and a flounce hem. */
+
+position: absolute;
+width: 254px;
+height: 54px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+
+/* color-2-900 */
+color: #000000;
+opacity: 0.5;
+
+
+/* Produto 03 */
+
+position: absolute;
+width: 254px;
+height: 24px;
+left: 27px;
+top: 456px;
+
+
+
+/* Ruched Rose Print Mini Skirt */
+
+position: absolute;
+width: 254px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* Produto 02 */
+
+position: absolute;
+width: 308px;
+left: 648px;
+top: 0%;
+bottom: -2.74%;
+
+
+
+/* Produto 02 */
+
+position: absolute;
+width: 254px;
+height: 35px;
+left: 27px;
+top: 550px;
+
+/* color-1-500 #FAA500 */
+background: #FAA500;
+border-radius: 4px;
+
+
+/* Adicionar */
+
+position: absolute;
+width: 254px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Produto 02 */
+
+position: absolute;
+width: 254px;
+height: 24px;
+left: 27px;
+top: 424px;
+
+
+
+/* R$ 500,00 */
+
+position: absolute;
+width: 254px;
+height: 30px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 30px;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* Produto 02 */
+
+position: absolute;
+width: 308px;
+height: 381px;
+left: 0px;
+top: 0px;
+
+
+
+/* https://via.placeholder.com/308x381 */
+
+position: absolute;
+width: 308px;
+height: 465px;
+left: 0px;
+top: -43px;
+
+background: url(image.png);
+
+
+/* Produto 02 */
+
+position: absolute;
+width: 132px;
+height: 27px;
+left: 27px;
+top: 389px;
+
+
+
+/* Rectangle 56 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 0px;
+top: 0px;
+
+background: #DEAC71;
+/* color-2-500 */
+border: 1px solid #353535;
+box-sizing: border-box;
+border-radius: 4px;
+
+
+/* Rectangle 57 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 35px;
+top: 0px;
+
+background: #D37164;
+border-radius: 4px;
+
+
+/* Rectangle 58 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 70px;
+top: 0px;
+
+background: #6497D3;
+border-radius: 4px;
+
+
+/* Rectangle 59 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 105px;
+top: 0px;
+
+background: #3C3B79;
+border-radius: 4px;
+
+
+/* Produto 02 */
+
+position: absolute;
+width: 254px;
+height: 54px;
+left: 27px;
+top: 488px;
+
+
+
+/* A faux suede mini skirt featuring exposed button-front closures and panel seam construction. */
+
+position: absolute;
+width: 254px;
+height: 54px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+
+/* color-2-900 */
+color: #000000;
+opacity: 0.5;
+
+
+/* Produto 02 */
+
+position: absolute;
+width: 254px;
+height: 24px;
+left: 27px;
+top: 456px;
+
+
+
+/* Faux Suede Mini Skirt */
+
+position: absolute;
+width: 254px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* Produto 01 */
+
+position: absolute;
+width: 308px;
+left: 0px;
+top: 0%;
+bottom: -2.74%;
+
+
+
+/* Produto 01 */
+
+position: absolute;
+width: 254px;
+height: 35px;
+left: 27px;
+top: 550px;
+
+/* color-1-500 #FAA500 */
+background: #FAA500;
+border-radius: 4px;
+
+
+/* Adicionar */
+
+position: absolute;
+width: 254px;
+height: 35px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Produto 01 */
+
+position: absolute;
+width: 254px;
+height: 24px;
+left: 27px;
+top: 424px;
+
+
+
+/* R$ 500,00 */
+
+position: absolute;
+width: 254px;
+height: 30px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 30px;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* Produto 01 */
+
+position: absolute;
+width: 308px;
+height: 381px;
+left: 0px;
+top: 0px;
+
+
+
+/* https://via.placeholder.com/308x381 */
+
+position: absolute;
+width: 308px;
+height: 465px;
+left: 0px;
+top: -43px;
+
+background: url(image.png);
+
+
+/* Produto 01 */
+
+position: absolute;
+width: 132px;
+height: 27px;
+left: 27px;
+top: 389px;
+
+
+
+/* Rectangle 56 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 0px;
+top: 0px;
+
+background: #DEAC71;
+/* color-2-500 */
+border: 1px solid #353535;
+box-sizing: border-box;
+border-radius: 4px;
+
+
+/* Rectangle 57 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 35px;
+top: 0px;
+
+background: #D37164;
+border-radius: 4px;
+
+
+/* Rectangle 58 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 70px;
+top: 0px;
+
+background: #6497D3;
+border-radius: 4px;
+
+
+/* Rectangle 59 */
+
+position: absolute;
+width: 27px;
+height: 27px;
+left: 105px;
+top: 0px;
+
+background: #3C3B79;
+border-radius: 4px;
+
+
+/* Produto 01 */
+
+position: absolute;
+width: 254px;
+height: 54px;
+left: 27px;
+top: 488px;
+
+
+
+/* A faux suede mini skirt featuring exposed button-front closures and panel seam construction. */
+
+position: absolute;
+width: 254px;
+height: 54px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+
+/* color-2-900 */
+color: #000000;
+opacity: 0.5;
+
+
+/* Produto 01 */
+
+position: absolute;
+width: 254px;
+height: 24px;
+left: 27px;
+top: 456px;
+
+
+
+/* Faux Suede Mini Skirt */
+
+position: absolute;
+width: 254px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* icon-next */
+
+position: absolute;
+width: 19.42px;
+height: 32px;
+left: 1581px;
+top: 269px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* icon-prev */
+
+position: absolute;
+width: 19.42px;
+height: 32px;
+left: 0px;
+top: 269px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Titulo */
+
+position: absolute;
+width: 1920px;
+height: 49px;
+left: 0px;
+top: 1177px;
+
+
+
+/* Titulo */
+
+position: absolute;
+width: 1920px;
+height: 49px;
+left: 0px;
+top: 0px;
+
+
+
+/* As Mais Pedidas */
+
+position: absolute;
+width: 1920px;
+height: 49px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: bold;
+font-size: 32px;
+line-height: 49px;
+/* identical to box height */
+text-align: center;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* Tipbar */
+
+position: absolute;
+width: 1598px;
+height: 64px;
+left: 161px;
+top: 829px;
+
+
+
+/* Tipbar05 */
+
+position: absolute;
+width: 308px;
+height: 64px;
+left: 0px;
+top: 0px;
+
+/* color-4-500 */
+background: #EFEFEF;
+border-radius: 4px;
+
+
+/* Tipbar05 Texto */
+
+position: absolute;
+width: 200px;
+height: 18px;
+left: 81px;
+top: 32px;
+
+
+
+/* Produto de Alta Qualidade */
+
+position: absolute;
+width: 200px;
+height: 18px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* Tipbar05 Titulo */
+
+position: absolute;
+width: 200px;
+height: 21px;
+left: 81px;
+top: 11px;
+
+
+
+/* Produtos importados */
+
+position: absolute;
+width: 200px;
+height: 21px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 21px;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* Tipbar05 Icone */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 27px;
+top: 16px;
+
+
+
+/* https://i.imgur.com/QTFwPmU.png */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+background: url(worldwide.png);
+
+
+/* Tipbar04 */
+
+position: absolute;
+width: 307px;
+height: 64px;
+left: 323px;
+top: 0px;
+
+/* color-4-500 */
+background: #EFEFEF;
+border-radius: 4px;
+
+
+/* Tipbar04 Texto */
+
+position: absolute;
+width: 200px;
+height: 18px;
+left: 81px;
+top: 32px;
+
+
+
+/* Produtos mais perto de você! */
+
+position: absolute;
+width: 200px;
+height: 18px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* Tipbar04 Titulo */
+
+position: absolute;
+width: 200px;
+height: 21px;
+left: 81px;
+top: 11px;
+
+
+
+/* Estoque no Brazil */
+
+position: absolute;
+width: 200px;
+height: 21px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 21px;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* Tipbar04 Icone */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 27px;
+top: 16px;
+
+
+
+/* https://i.imgur.com/5GTW9ii.png */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+background: url(warehouse.png);
+
+
+/* Tipbar03 */
+
+position: absolute;
+width: 308px;
+height: 64px;
+left: 645px;
+top: 0px;
+
+/* color-4-500 */
+background: #EFEFEF;
+border-radius: 4px;
+
+
+/* Tipbar03 Texto */
+
+position: absolute;
+width: 200px;
+height: 18px;
+left: 81px;
+top: 32px;
+
+
+
+/* Trocas em até 48 horas, vejas as regras */
+
+position: absolute;
+width: 200px;
+height: 18px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* Tipbar03 Titulo */
+
+position: absolute;
+width: 200px;
+height: 21px;
+left: 81px;
+top: 11px;
+
+
+
+/* Trocas Garantidas */
+
+position: absolute;
+width: 109px;
+height: 21px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 21px;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* Tipbar03 Icone */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 27px;
+top: 16px;
+
+
+
+/* https://i.imgur.com/sxrqa57.png */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+background: url(return.png);
+
+
+/* Tipbar02 */
+
+position: absolute;
+width: 307px;
+height: 64px;
+left: 968px;
+top: 0px;
+
+/* color-4-500 */
+background: #EFEFEF;
+border-radius: 4px;
+
+
+/* Tipbar02 Texto */
+
+position: absolute;
+width: 200px;
+height: 18px;
+left: 81px;
+top: 32px;
+
+
+
+/* Pagando à vista no Cartão */
+
+position: absolute;
+width: 200px;
+height: 18px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* Tipbar02 Titulo */
+
+position: absolute;
+width: 200px;
+height: 21px;
+left: 81px;
+top: 11px;
+
+
+
+/* Ganhe 5% off */
+
+position: absolute;
+width: 200px;
+height: 21px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 21px;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* Tipbar02 Icone */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 27px;
+top: 16px;
+
+
+
+/* https://i.imgur.com/pyNUUin.png */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+background: url(discount.png);
+
+
+/* Tipbar01 */
+
+position: absolute;
+width: 308px;
+height: 64px;
+left: 1290px;
+top: 0px;
+
+/* color-4-500 */
+background: #EFEFEF;
+border-radius: 4px;
+
+
+/* Tipbar01 texto */
+
+position: absolute;
+width: 200px;
+height: 18px;
+left: 81px;
+top: 32px;
+
+
+
+/* Em compras acima de R$ 499,00 */
+
+position: absolute;
+width: 200px;
+height: 18px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+
+/* color-2-900 */
+color: #000000;
+
+
+/* Tipbar01 Titulo */
+
+position: absolute;
+width: 200px;
+height: 21px;
+left: 81px;
+top: 11px;
+
+
+
+/* Frete Grátis */
+
+position: absolute;
+width: 200px;
+height: 21px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 21px;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* Tipbar01 Icone */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 27px;
+top: 16px;
+
+
+
+/* https://i.imgur.com/o6jS7Gc.png */
+
+position: absolute;
+width: 32px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+background: url(lorry.png);
+
+
+/* Titulo */
+
+position: absolute;
+width: 1920px;
+height: 29px;
+left: 0px;
+top: 784px;
+
+
+
+/* Titulo */
+
+position: absolute;
+width: 1920px;
+height: 29px;
+left: 0px;
+top: 0px;
+
+
+
+/* Por que comprar na Maeztra? */
+
+position: absolute;
+width: 1920px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 24px;
+text-align: center;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* Fullbanner */
+
+position: absolute;
+width: 1920px;
+height: 600px;
+left: 0px;
+top: 160px;
+
+
+
+/* Banner */
+
+position: absolute;
+width: 1920px;
+height: 600px;
+left: 0px;
+top: 0px;
+
+
+
+/* imageUrl */
+
+position: absolute;
+width: 1920px;
+height: 600px;
+left: calc(50% - 1920px/2);
+top: 0px;
+
+
+
+/* https://i.imgur.com/ftECh3G.png */
+
+position: absolute;
+width: 1920px;
+height: 1280px;
+right: -1920px;
+top: -206px;
+
+background: url(.jpg);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* callToActionText */
+
+position: absolute;
+width: 128px;
+height: 48px;
+left: 323px;
+top: 320px;
+
+/* color-1-500 #FAA500 */
+background: #FAA500;
+border-radius: 10px;
+
+
+/* Conferir */
+
+position: absolute;
+width: 68px;
+height: 20px;
+left: calc(50% - 68px/2);
+top: calc(50% - 20px/2);
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+/* color-5-500 */
+color: #FFFFFF;
+
+
+/* subhead */
+
+position: absolute;
+width: 297px;
+height: 40px;
+left: 323px;
+top: 240px;
+
+
+
+/* Confiras os melhores looks para combinar com você nesse Outono */
+
+position: absolute;
+width: 467px;
+height: 48px;
+left: 0px;
+top: 0px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+
+/* headline */
+
+position: absolute;
+width: 471px;
+height: 49px;
+left: 323px;
+top: 151px;
+
+
+
+/* Promoções de Outono */
+
+position: absolute;
+width: 471px;
+height: 49px;
+left: 0px;
+top: 0px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 40px;
+line-height: 49px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+
+/* Qtd */
+
+position: absolute;
+width: 144px;
+height: 16px;
+left: 888px;
+top: 560px;
+
+
+
+/* _icon-elipsecheia */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* color-1-500 #FAA500 */
+background: #FAA500;
+
+
+/* _icon-elipsevazio */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 32px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* color-1-500 #FAA500 */
+background: #FAA500;
+
+
+/* _icon-elipsevazio */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 64px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* color-1-500 #FAA500 */
+background: #FAA500;
+
+
+/* _icon-elipsevazio */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 96px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* color-1-500 #FAA500 */
+background: #FAA500;
+
+
+/* _icon-elipsevazio */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 128px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* color-1-500 #FAA500 */
+background: #FAA500;
+
+
+/* Next/Prev */
+
+position: absolute;
+width: 1597.42px;
+height: 32px;
+left: 161px;
+top: 269px;
+
+
+
+/* _icon-next */
+
+position: absolute;
+width: 19.42px;
+height: 32px;
+left: 1578px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* color-2-500 */
+background: #353535;
+
+
+/* _icon-prev */
+
+position: absolute;
+width: 19.42px;
+height: 32px;
+left: 0px;
+top: 0px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* color-2-500 */
+background: #353535;
+
+
+/* header */
+
+position: absolute;
+width: 1920px;
+height: 88px;
+left: 0px;
+top: 0px;
+
+
+
+/* header */
+
+position: absolute;
+width: 1920px;
+height: 88px;
+left: 0px;
+top: 0px;
+
+
+
+/* header */
+
+position: absolute;
+width: 1920px;
+height: 48px;
+left: 0px;
+top: 112px;
+
+/* color-5-500 */
+background: #FFFFFF;
+
+
+/* header */
+
+position: absolute;
+width: 1598px;
+height: 41px;
+left: 161px;
+top: 3px;
+
+
+
+/* menu-item#item07 */
+
+position: absolute;
+width: 146px;
+height: 21px;
+left: calc(50% - 146px/2 + 242px);
+top: calc(50% - 21px/2);
+
+
+
+/* Minha Conta */
+
+position: absolute;
+width: 64px;
+height: 21px;
+left: calc(50% - 64px/2 - 1px);
+top: calc(50% - 21px/2);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* menu-item#item06 */
+
+position: absolute;
+width: 146px;
+height: 21px;
+left: calc(50% - 146px/2 + 403px);
+top: calc(50% - 21px/2);
+
+
+
+/* Minha Conta */
+
+position: absolute;
+width: 48px;
+height: 21px;
+left: calc(50% - 48px/2 - 1px);
+top: calc(50% - 21px/2);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* menu-item#item05 */
+
+position: absolute;
+width: 146px;
+height: 21px;
+left: calc(50% - 146px/2 + 81px);
+top: calc(50% - 21px/2);
+
+
+
+/* Minha Conta */
+
+position: absolute;
+width: 146px;
+height: 21px;
+left: calc(50% - 146px/2);
+top: calc(50% - 21px/2);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* menu-item#item04 */
+
+position: absolute;
+width: 147px;
+height: 21px;
+left: calc(50% - 147px/2 - 80.5px);
+top: calc(50% - 21px/2);
+
+
+
+/* Minha Conta */
+
+position: absolute;
+width: 146px;
+height: 21px;
+left: calc(50% - 146px/2 + 0.5px);
+top: calc(50% - 21px/2);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* menu-item#item03 */
+
+position: absolute;
+width: 146px;
+height: 21px;
+left: calc(50% - 146px/2 - 242px);
+top: calc(50% - 21px/2);
+
+
+
+/* Minha Conta */
+
+position: absolute;
+width: 146px;
+height: 21px;
+left: calc(50% - 146px/2);
+top: calc(50% - 21px/2);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* menu-item#item02 */
+
+position: absolute;
+width: 146px;
+height: 21px;
+left: calc(50% - 146px/2 - 403px);
+top: calc(50% - 21px/2 + 1px);
+
+
+
+/* Minha Conta */
+
+position: absolute;
+width: 146px;
+height: 21px;
+left: calc(50% - 146px/2);
+top: calc(50% - 21px/2);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* menu-item#item01 */
+
+position: absolute;
+width: 146px;
+height: 21px;
+left: calc(50% - 146px/2 - 564px);
+top: calc(50% - 21px/2);
+
+
+
+/* Minha */
+
+position: absolute;
+width: 64px;
+height: 21px;
+left: calc(50% - 64px/2 + 12px);
+top: calc(50% - 21px/2);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* color-1-500 #FAA500 */
+color: #FAA500;
+
+
+/* icon-dress */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: 29px;
+top: 3px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 10.94%;
+right: 10.94%;
+top: 3.12%;
+bottom: 3.12%;
+
+background: #000000;
+
+
+/* header */
+
+position: absolute;
+width: 1920px;
+height: 88px;
+left: 0px;
+top: 24px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.08);
+
+
+/* header */
+
+position: absolute;
+left: 8.39%;
+right: 83.96%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* https://i.ibb.co/StZVfCx/logo-maeztra-novo.png */
+
+position: absolute;
+width: 147px;
+height: 18px;
+left: 0px;
+top: 35px;
+
+background: url(logo-maeztra-novo.png);
+
+
+/* header */
+
+position: absolute;
+width: 791px;
+height: 40px;
+left: 401px;
+top: 24px;
+
+
+
+/* base */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* color-4-500 */
+background: #EFEFEF;
+border-radius: 10px;
+
+
+/* txt */
+
+position: absolute;
+width: 565px;
+height: 40px;
+left: 24px;
+top: calc(50% - 40px/2);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+/* or 150% */
+display: flex;
+align-items: center;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* search-button */
+
+position: absolute;
+width: 119px;
+right: 0px;
+top: 0%;
+bottom: 0%;
+
+/* color-1-500 #FAA500 */
+background: #FAA500;
+border-radius: 8px;
+
+
+/* buscar */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+/* color-5-500 */
+color: #FFFFFF;
+
+
+/* header */
+
+position: absolute;
+width: 422px;
+height: 46px;
+left: 1337px;
+top: 21px;
+
+
+
+/* header */
+
+position: absolute;
+width: 134px;
+height: 46px;
+left: 288px;
+top: 0px;
+
+/* color-1-500 #FAA500 */
+border: 1px solid #FAA500;
+box-sizing: border-box;
+border-radius: 8px;
+
+
+/* minha conta */
+
+position: absolute;
+width: 80px;
+height: 21px;
+right: 14px;
+top: calc(50% - 21px/2 - 0.5px);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* icon-shoppingbag */
+
+position: absolute;
+width: 14.54px;
+height: 16px;
+left: 17px;
+top: 15px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 1.09%;
+top: 0%;
+bottom: 0%;
+
+/* color-2-500 */
+background: #353535;
+
+
+/* header */
+
+position: absolute;
+width: 101.29px;
+height: 21px;
+left: 138px;
+top: 12px;
+
+
+
+/* Minha Conta */
+
+position: absolute;
+left: 25.95%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* icon-heart */
+
+position: absolute;
+left: 0%;
+right: 81.95%;
+top: 14.29%;
+bottom: 9.52%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* color-2-500 */
+background: #353535;
+
+
+/* header */
+
+position: absolute;
+width: 99px;
+height: 21px;
+left: calc(50% - 99px/2 - 161.5px);
+top: calc(50% - 21px/2 + 0.5px);
+
+
+
+/* Minha Conta */
+
+position: absolute;
+width: 75px;
+height: 21px;
+left: calc(50% - 75px/2 + 12px);
+top: calc(50% - 21px/2);
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height, or 150% */
+display: flex;
+align-items: center;
+
+/* color-2-500 */
+color: #353535;
+
+
+/* icon-user */
+
+position: absolute;
+width: 14px;
+height: 16px;
+left: 2px;
+top: 3px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* color-2-500 */
+background: #353535;
+
+
+/* header */
+
+position: absolute;
+width: 1920px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+/* color-2-500 */
+background: #353535;
+
+
+/* header */
+
+position: absolute;
+width: 1921px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+
+
+/* Acompanhe as melhores promoções disponíveis aqui na Maeztra. */
+
+position: absolute;
+width: 1921px;
+height: 24px;
+left: 0px;
+top: 0px;
+
+font-family: Titillium Web;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 18px;
+/* or 150% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+.nav{
+position: absolute;
+width: 1920px;
+height: 88px;
+left: 0px;
+top: 24px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.08)
+}
+.Fullbanner{
+  position: absolute;
+width: 1920px;
+height: 600px;
+left: 0px;
+top: 160px;
+
+}
